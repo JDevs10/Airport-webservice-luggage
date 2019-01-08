@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MyAirport.Pim.Entities
+{
+    public abstract class AbstractDefinition
+    {
+        public abstract BagageDefinition GetBagage(int idBagage);
+        public abstract List<BagageDefinition> GetBagage(string codeIataBagage);
+
+    }
+}
