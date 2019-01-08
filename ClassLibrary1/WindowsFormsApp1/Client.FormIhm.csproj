@@ -45,6 +45,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PIM.cs" />
     <Compile Include="FormIhm.cs">
       <SubType>Form</SubType>
     </Compile>
