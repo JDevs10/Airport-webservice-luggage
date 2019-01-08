@@ -1,0 +1,6 @@
+C:\Workspace\Ece Tech Projects\Web Service\ClassLibrary1\ClassLibrary1\bin\Debug\MyAirport.Pim.Entities.dll
+C:\Workspace\Ece Tech Projects\Web Service\ClassLibrary1\ClassLibrary1\bin\Debug\MyAirport.Pim.Entities.pdb
+C:\Workspace\Ece Tech Projects\Web Service\ClassLibrary1\ClassLibrary1\obj\Debug\MyAirport.Pim.Entities.csprojResolveAssemblyReference.cache
+C:\Workspace\Ece Tech Projects\Web Service\ClassLibrary1\ClassLibrary1\obj\Debug\MyAirport.Pim.Entities.csproj.CoreCompileInputs.cache
+C:\Workspace\Ece Tech Projects\Web Service\ClassLibrary1\ClassLibrary1\obj\Debug\MyAirport.Pim.Entities.dll
+C:\Workspace\Ece Tech Projects\Web Service\ClassLibrary1\ClassLibrary1\obj\Debug\MyAirport.Pim.Entities.pdb
