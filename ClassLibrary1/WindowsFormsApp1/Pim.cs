@@ -16,21 +16,12 @@ namespace WindowsFormsApp1
             set { OnPimStateChanged(value); }
         }
 
-        public enum PimState
-        {
-            Deconnecter,
-            AttenteBagage,
-            SelectionBagage,
-            CreationBagage,
-            AffichageBagage
-        }
-
         public event PimStateEventHandler PimStateChanged;
         public delegate void PimStateEventHandler(object sender, PimState state);
 
-        private void OnPimStateChanged(PimState newState)
+        private void OnPimStateChanged(PimState newState, bool force = false)
         {
-            if (newState != this.state)
+            if ((newState != this.state) || force)
             {
                 this.state = newState;
                 if (this.PimStateChanged != null)
