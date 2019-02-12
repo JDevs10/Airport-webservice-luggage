@@ -16,5 +16,10 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+
+        private void desconnexionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            //this.groupBox_search.Visible(false);
+        }
     }
 }
